@@ -557,7 +557,7 @@ window.MOD_TRACKER_DATA = {
       "description": "[Download](https://www.patreon.com/posts/95487489)",
       "fields": {
         "Mod Status": "Free",
-        "Last Updated": "2026-12-16T15:00:00.000Z",
+        "Last Updated": "2026-02-16T15:00:00.000Z",
         "Mod Type": "Other",
         "Published": "2023-12-29T23:00:00.000Z"
       },
