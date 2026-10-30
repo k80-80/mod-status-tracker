@@ -12,34 +12,73 @@
 </head>
 <body>
   <a class="skip" href="#tracker">Skip to mods</a>
-  <header class="masthead">
-    <a class="brand" href="https://midnitetechmods.com/" target="_blank" rel="noopener">midnitetechmods</a>
-    <span>realistic careers &amp; gameplay mods</span>
+  <header class="masthead"><a class="brand"
+   href="https://midnitetechmods.com/"
+   target="_blank"
+   rel="noopener">
+  <img
+    class="site-logo"
+    src="icons/Mod Status Tracker.png"
+    alt="Midnitetech Mods"
+  >
+</a>
+<button
+  id="theme-toggle"
+  class="theme-toggle"
+  type="button"
+  aria-pressed="false"
+>
+  ◐ Dark mode
+</button>
   </header>
   <main>
     <section class="intro">
-      <p class="eyebrow">THE SIMS 4 · MOD COMPATIBILITY</p>
-      <h1>mod status tracker</h1>
-      <p>Check your favourites before you play.</p>
-      <div class="patch"><strong>Patch: <span id="patch">October 27, 2026</span></strong><span>Export snapshot · October 30, 2026</span></div>
-      <p class="notice">Compatibility applies to the patch shown above. After a newer game update, check back for a new snapshot. <a href="https://www.ea.com/games/the-sims/the-sims-4/news?page=1&amp;type=game-updates" target="_blank" rel="noopener">View EA patch notes ↗</a></p>
+      <p class="eyebrow">THE SIMS 4 · MIDNITETECH MODS</p>
+      <h2>mod status tracker</h2>
+      <p>Check what's compatible with the latest patch.</p>
+      <div class="patch">
+  <span>
+    Current Patch: <span id="patch">October 27, 2026</span>
+  </span>
+  <span>
+    Tracker Last Updated · October 30, 2026
+  </span>
+</div>
     </section>
     <section id="tracker" aria-label="Find a mod">
       <div class="stats" id="stats"></div>
       <form id="filters" class="filters" role="search">
-        <label class="search">Search mods<input id="search" type="search" placeholder="Search names, notes or labels…"></label>
-        <label>Status<select id="status"><option value="">All statuses</option><option>Compatible</option><option>Needs fixing</option><option value="recent">Recently updated &amp; new</option></select></label>
-        <label>Mod type<select id="type"><option value="">All types</option></select></label>
-        <label>Access<select id="access"><option value="">All access</option></select></label>
-        <label>Sort<select id="sort"><option value="name">Name A–Z</option><option value="updated">Last updated</option></select></label>
+        <label class="search">Search Mods<input id="search" type="search" placeholder="Search by name…"></label>
+        <label>Status<select id="status"><option value="">All Statuses</option><option>Compatible</option><option value="Retired">Retired</option><option value="recent">Recently Updated &amp; New</option></select></label>
+        <label>Mod Type<select id="type"><option value="">All Types</option></select></label>
+        <label>Access<select id="access"><option value="">All Access</option></select></label>
+        <label>Sort<select id="sort"><option value="name">Name A–Z</option><option value="updated">Last Updated</option></select></label>
         <button id="reset" type="reset">Reset</button>
       </form>
-      <p id="result" role="status" aria-live="polite">Loading mods…</p>
+      <p id="result" role="status" aria-live="polite">Loading Mods…</p>
       <div id="mods" class="cards"></div>
       <noscript>Enable JavaScript to display and search the bundled mod data.</noscript>
     </section>
-    <section class="resources"><h2>links &amp; info</h2><div id="information"></div></section>
+    <section class="resources"><h2>Links &amp; Info</h2><div id="information"></div></section>
   </main>
-  <footer><a id="standalone" href="./" target="_blank" rel="noopener">Open full tracker ↗</a><a href="https://midnitetechmods.com/support" target="_blank" rel="noopener">Mod support ↗</a><span>Made for your next story.</span></footer>
+<footer class="site-footer">
+  <nav aria-label="Footer links">
+
+    <a href="https://midnitetechmods.com/"
+       target="_blank"
+       rel="noopener">
+      midnitetechmods ↗
+    </a>
+  </nav>
+
+  <p>© 2026 midnitetech. All rights reserved.</p>
+
+  <p class="footer-disclaimer">
+    This website and its content are not affiliated with or endorsed
+    by Electronic Arts or Maxis.<br>
+    The Sims™ 4 and all associated trademarks are the property of
+    Electronic Arts Inc.
+  </p>
+</footer>
 </body>
 </html>
