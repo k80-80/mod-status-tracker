@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Midnitetech Sims 4 mod compatibility and update tracker.">
+  <title>Mod status tracker • midnitetechmods</title>
+  <link rel="stylesheet" href="font.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data/mods.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#tracker">Skip to mods</a>
+  <header class="masthead">
+    <a class="brand" href="https://midnitetechmods.com/" target="_blank" rel="noopener">midnitetechmods</a>
+    <span>realistic careers &amp; gameplay mods</span>
+  </header>
+  <main>
+    <section class="intro">
+      <p class="eyebrow">THE SIMS 4 · MOD COMPATIBILITY</p>
+      <h1>mod status tracker</h1>
+      <p>Check your favourites before you play.</p>
+      <div class="patch"><strong>Patch: <span id="patch">October 27, 2026</span></strong><span>Export snapshot · October 30, 2026</span></div>
+      <p class="notice">Compatibility applies to the patch shown above. After a newer game update, check back for a new snapshot. <a href="https://www.ea.com/games/the-sims/the-sims-4/news?page=1&amp;type=game-updates" target="_blank" rel="noopener">View EA patch notes ↗</a></p>
+    </section>
+    <section id="tracker" aria-label="Find a mod">
+      <div class="stats" id="stats"></div>
+      <form id="filters" class="filters" role="search">
+        <label class="search">Search mods<input id="search" type="search" placeholder="Search names, notes or labels…"></label>
+        <label>Status<select id="status"><option value="">All statuses</option><option>Compatible</option><option>Needs fixing</option><option value="recent">Recently updated &amp; new</option></select></label>
+        <label>Mod type<select id="type"><option value="">All types</option></select></label>
+        <label>Access<select id="access"><option value="">All access</option></select></label>
+        <label>Sort<select id="sort"><option value="name">Name A–Z</option><option value="updated">Last updated</option></select></label>
+        <button id="reset" type="reset">Reset</button>
+      </form>
+      <p id="result" role="status" aria-live="polite">Loading mods…</p>
+      <div id="mods" class="cards"></div>
+      <noscript>Enable JavaScript to display and search the bundled mod data.</noscript>
+    </section>
+    <section class="resources"><h2>links &amp; info</h2><div id="information"></div></section>
+  </main>
+  <footer><a id="standalone" href="./" target="_blank" rel="noopener">Open full tracker ↗</a><a href="https://midnitetechmods.com/support" target="_blank" rel="noopener">Mod support ↗</a><span>Made for your next story.</span></footer>
+</body>
+</html>
