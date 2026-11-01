@@ -1,7 +1,7 @@
 window.MOD_TRACKER_DATA = {
   "board": "Mod Status Tracker (✅ October 27, 2026)",
   "patchDate": "2026-10-27",
-  "snapshotDate": "2026-10-30",
+  "snapshotDate": "2026-11-01",
   "customFields": [
     {
       "name": "Last Updated",
@@ -41,7 +41,7 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Career Mod",
         "Mod Status": "Free",
         "Published": "2026-10-01T13:00:00.000Z",
-        "Last Updated": "2026-10-29T12:00:00.000Z"
+        "Last Updated": "2026-11-01T12:00:00.000Z"
       },
       "status": "Compatible",
       "recent": true,
