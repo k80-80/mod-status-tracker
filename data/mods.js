@@ -41,7 +41,7 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Career Mod",
         "Mod Status": "Free",
         "Published": "2026-10-01T13:00:00.000Z",
-        "Last Updated": "2026-11-01T12:00:00.000Z"
+        "Last Updated": "2026-11-02T12:00:00.000Z"
       },
       "status": "Compatible",
       "recent": true,
@@ -52,7 +52,7 @@ window.MOD_TRACKER_DATA = {
       "description": "[Download](https://www.patreon.com/posts/midnitetech-121729961)",
       "fields": {
         "Published": "2025-02-07T22:00:00.000Z",
-        "Last Updated": "2026-10-29T14:00:00.000Z",
+        "Last Updated": "2026-11-02T14:00:00.000Z",
         "Mod Type": "Other"
       },
       "status": "Compatible",
