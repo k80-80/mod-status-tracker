@@ -73,8 +73,16 @@ window.MOD_TRACKER_DATA = {
       "icon": "icons/Custom Uniforms.png"
     },
     {
-      "name": "All-in-One Zips",
+      "name": "All-in-One Zip (DLC Edition)",
       "description": "[Download](https://www.patreon.com/midnitetech/posts/all-in-one-mods-110880154)",
+      "fields": {
+        "Published": "2024-08-27T22:00:00.000Z",
+        "Last Updated": "2026-09-29T12:14:00.000Z",
+        "Mod Type": "Other"
+      },
+      {
+      "name": "All-in-One Zip (BASE GAME Edition)",
+      "description": "[Download](https://www.patreon.com/midnitetech/posts/all-in-one-mods-165747621)",
       "fields": {
         "Published": "2024-08-27T22:00:00.000Z",
         "Last Updated": "2026-09-29T12:14:00.000Z",
@@ -82,7 +90,7 @@ window.MOD_TRACKER_DATA = {
       },
       "status": "Compatible",
       "recent": true,
-      "icon": "icons/All In One.png"
+      "icon": "icons/BGC.png"
     },
     {
       "name": "AnyShift",
