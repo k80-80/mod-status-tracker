@@ -1,7 +1,7 @@
 window.MOD_TRACKER_DATA = {
   "board": "Mod Status Tracker (✅ October 27, 2026)",
   "patchDate": "2026-10-27",
-  "snapshotDate": "2026-11-04",
+  "snapshotDate": "2026-11-08",
   "customFields": [
     {
       "name": "Last Updated",
@@ -540,13 +540,13 @@ window.MOD_TRACKER_DATA = {
       "icon": "icons/MeetUp.png"
     },
     {
-      "name": "Call Me, Maybe?",
-      "description": "[Download](https://www.patreon.com/posts/call-me-maybe-127818072?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)",
+      "name": "Call Me Maybe",
+      "description": "[Download](https://www.patreon.com/midnitetech/posts/call-me-maybe-127818072)",
       "fields": {
         "Mod Type": "Gameplay Mod",
         "Mod Status": "Free",
         "Published": "2025-04-30T15:00:00.000Z",
-        "Last Updated": "2026-02-04T15:00:00.000Z"
+        "Last Updated": "2026-11-08T15:00:00.000Z"
       },
       "status": "Compatible",
       "recent": false,
