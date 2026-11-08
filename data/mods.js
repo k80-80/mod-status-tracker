@@ -83,6 +83,7 @@ window.MOD_TRACKER_DATA = {
       "status": "Compatible",
       "recent": true,
       "icon": "icons/All In One.png"
+    },
       {
       "name": "All-in-One Zip (BASE GAME Edition)",
       "description": "[Download](https://www.patreon.com/midnitetech/posts/all-in-one-mods-165747621)",
