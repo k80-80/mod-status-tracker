@@ -432,7 +432,7 @@ window.MOD_TRACKER_DATA = {
         "Last Updated": "2026-11-04T13:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/Simoleonz Side Hustlez.png"
     },
     {
@@ -549,7 +549,7 @@ window.MOD_TRACKER_DATA = {
         "Last Updated": "2026-11-08T15:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/Call Me Maybe.png"
     },
     {
