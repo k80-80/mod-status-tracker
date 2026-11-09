@@ -1,7 +1,7 @@
 window.MOD_TRACKER_DATA = {
   "board": "Mod Status Tracker (✅ October 27, 2026)",
   "patchDate": "2026-10-27",
-  "snapshotDate": "2026-11-08",
+  "snapshotDate": "2026-11-09",
   "customFields": [
     {
       "name": "Last Updated",
@@ -558,7 +558,7 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Gameplay Mod",
         "Mod Status": "Free",
         "Published": "2025-04-30T15:00:00.000Z",
-        "Last Updated": "2026-11-08T15:00:00.000Z"
+        "Last Updated": "2026-11-09T15:00:00.000Z"
       },
       "status": "Compatible",
       "recent": true,
