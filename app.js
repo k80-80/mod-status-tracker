@@ -81,7 +81,7 @@ function card(mod) {
     heading.append(icon);
   }
 
-  heading.append(node('strong', mod.name, 'title'));
+  heading.append(node('strong', mod.name, 'title notranslate'));
   summary.append(heading);
 
   const metadata = [
@@ -253,3 +253,37 @@ if (themeToggle) {
 
   applyTheme();
 }
+
+const translateToggle = document.getElementById('translate-toggle');
+const translateHelp = document.getElementById('translate-help');
+
+if (translateToggle && translateHelp) {
+  function closeTranslateHelp() {
+    translateHelp.hidden = true;
+    translateToggle.setAttribute('aria-expanded', 'false');
+  }
+
+  translateToggle.addEventListener('click', event => {
+    event.stopPropagation();
+    translateHelp.hidden = !translateHelp.hidden;
+    translateToggle.setAttribute('aria-expanded', String(!translateHelp.hidden));
+  });
+
+  document.addEventListener('click', event => {
+    if (!translateHelp.hidden && !translateHelp.contains(event.target)) {
+      closeTranslateHelp();
+    }
+  });
+
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && !translateHelp.hidden) {
+      closeTranslateHelp();
+      translateToggle.focus();
+    }
+  });
+}
+
+document.querySelectorAll('code, .site-logo').forEach(element => {
+  element.setAttribute('translate', 'no');
+  element.classList.add('notranslate');
+});
