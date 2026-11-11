@@ -28,7 +28,7 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Gameplay Mod",
         "Mod Status": "Free",
         "Published": "2026-01-19T18:00:00.000Z",
-        "Last Updated": "2026-10-29T10:00:00.000Z"
+        "Last Updated": "2026-11-11T10:00:00.000Z"
       },
       "status": "Compatible",
       "recent": true,
@@ -41,7 +41,7 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Career Mod",
         "Mod Status": "Free",
         "Published": "2026-10-01T13:00:00.000Z",
-        "Last Updated": "2026-11-02T12:00:00.000Z"
+        "Last Updated": "2026-11-11T12:00:00.000Z"
       },
       "status": "Compatible",
       "recent": true,
@@ -77,7 +77,7 @@ window.MOD_TRACKER_DATA = {
       "description": "[Download](https://www.patreon.com/midnitetech/posts/all-in-one-mods-110880154)",
       "fields": {
         "Published": "2024-08-27T22:00:00.000Z",
-        "Last Updated": "2026-09-29T12:14:00.000Z",
+        "Last Updated": "2026-11-11T12:14:00.000Z",
         "Mod Type": "Other"
       },
       "status": "Compatible",
@@ -89,7 +89,7 @@ window.MOD_TRACKER_DATA = {
       "description": "[Download](https://www.patreon.com/midnitetech/posts/all-in-one-mods-165747621)",
       "fields": {
         "Published": "2024-08-27T22:00:00.000Z",
-        "Last Updated": "2026-09-29T12:14:00.000Z",
+        "Last Updated": "2026-11-11T12:14:00.000Z",
         "Mod Type": "Other"
       },
       "status": "Compatible",
@@ -116,10 +116,10 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Gameplay Mod",
         "Mod Status": "Free",
         "Published": "2025-12-02T22:00:00.000Z",
-        "Last Updated": "2026-09-29T12:00:00.000Z"
+        "Last Updated": "2026-11-11T12:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/Noteworthy Notebook.png"
     },
     {
@@ -155,10 +155,10 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Aspiration",
         "Mod Status": "Free",
         "Published": "2025-06-04T19:40:00.000Z",
-        "Last Updated": "2026-07-15T23:00:00.000Z"
+        "Last Updated": "2026-11-11T23:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/Home & Hobbies Aspiration Category.png"
     },
     {
@@ -168,10 +168,10 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Career Mod",
         "Mod Status": "Free",
         "Published": "2024-12-08T22:00:00.000Z",
-        "Last Updated": "2026-07-15T23:00:00.000Z"
+        "Last Updated": "2026-11-11T23:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/HHC.png"
     },
     {
@@ -194,10 +194,10 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Career Mod",
         "Mod Status": "Free",
         "Published": "2025-05-07T22:00:00.000Z",
-        "Last Updated": "2026-07-15T23:00:00.000Z"
+        "Last Updated": "2026-11-11T23:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/Saturday Solutions.png"
     },
     {
@@ -233,10 +233,10 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Career Mod",
         "Mod Status": "Free",
         "Published": "2026-04-12T11:00:00.000Z",
-        "Last Updated": "2026-07-15T23:00:00.000Z"
+        "Last Updated": "2026-11-11T23:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/Travel Writer.png"
     },
     {
@@ -246,10 +246,10 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Aspiration",
         "Mod Status": "Free",
         "Published": "2026-05-16T14:30:00.000Z",
-        "Last Updated": "2026-07-13T23:00:00.000Z"
+        "Last Updated": "2026-11-11T23:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/Afterschool Activities.png"
     },
     {
@@ -259,10 +259,10 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Gameplay Mod",
         "Mod Status": "Free",
         "Published": "2024-06-15T22:00:00.000Z",
-        "Last Updated": "2026-07-13T23:00:00.000Z"
+        "Last Updated": "2026-11-11T23:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/Write Books Overhaul.png"
     },
     {
@@ -363,10 +363,10 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Career Mod",
         "Mod Status": "Free",
         "Published": "2026-07-08T22:00:00.000Z",
-        "Last Updated": "2026-07-09T23:00:00.000Z"
+        "Last Updated": "2026-11-10T23:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/3D Modeler.png"
     },
     {
@@ -448,16 +448,16 @@ window.MOD_TRACKER_DATA = {
       "icon": "icons/Simoleonz Side Hustlez.png"
     },
     {
-      "name": "World Rename Mod",
+      "name": "Rename Worlds Mod",
       "description": "[Download](https://www.patreon.com/posts/135173807)",
       "fields": {
         "Mod Type": "Gameplay Mod",
         "Mod Status": "Free",
         "Published": "2025-07-28T22:00:00.000Z",
-        "Last Updated": "2026-08-12T22:00:00.000Z"
+        "Last Updated": "2026-11-10T22:00:00.000Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/World Rename.png"
     },
     {
@@ -467,10 +467,10 @@ window.MOD_TRACKER_DATA = {
         "Mod Type": "Career Mod",
         "Mod Status": "Free",
         "Published": "2024-07-26T23:00:00.000Z",
-        "Last Updated": "2026-04-06T14:00:00.230Z"
+        "Last Updated": "2026-11-11T14:00:00.230Z"
       },
       "status": "Compatible",
-      "recent": false,
+      "recent": true,
       "icon": "icons/Retail Pack.png"
     },
     {
