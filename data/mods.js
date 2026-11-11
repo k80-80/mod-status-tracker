@@ -1,7 +1,7 @@
 window.MOD_TRACKER_DATA = {
   "board": "Mod Status Tracker (✅ October 27, 2026)",
   "patchDate": "2026-10-27",
-  "snapshotDate": "2026-11-09",
+  "snapshotDate": "2026-11-11",
   "customFields": [
     {
       "name": "Last Updated",
@@ -52,7 +52,7 @@ window.MOD_TRACKER_DATA = {
       "description": "[Download](https://www.patreon.com/posts/midnitetech-121729961)",
       "fields": {
         "Published": "2025-02-07T22:00:00.000Z",
-        "Last Updated": "2026-11-02T14:00:00.000Z",
+        "Last Updated": "2026-11-11T14:00:00.000Z",
         "Mod Type": "Other"
       },
       "status": "Compatible",
