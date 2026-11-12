@@ -1,7 +1,7 @@
 window.MOD_TRACKER_DATA = {
   "board": "Mod Status Tracker (✅ October 27, 2026)",
   "patchDate": "2026-10-27",
-  "snapshotDate": "2026-11-11",
+  "snapshotDate": "2026-11-12",
   "customFields": [
     {
       "name": "Last Updated",
@@ -77,7 +77,7 @@ window.MOD_TRACKER_DATA = {
       "description": "[Download](https://www.patreon.com/midnitetech/posts/all-in-one-mods-110880154)",
       "fields": {
         "Published": "2024-08-27T22:00:00.000Z",
-        "Last Updated": "2026-11-11T12:14:00.000Z",
+        "Last Updated": "2026-11-12T12:14:00.000Z",
         "Mod Type": "Other"
       },
       "status": "Compatible",
@@ -89,7 +89,7 @@ window.MOD_TRACKER_DATA = {
       "description": "[Download](https://www.patreon.com/midnitetech/posts/all-in-one-mods-165747621)",
       "fields": {
         "Published": "2024-08-27T22:00:00.000Z",
-        "Last Updated": "2026-11-11T12:14:00.000Z",
+        "Last Updated": "2026-11-12T12:14:00.000Z",
         "Mod Type": "Other"
       },
       "status": "Compatible",
