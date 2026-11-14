@@ -15,10 +15,13 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font: 16px/1.6 "SimsHeadline", Arial, sans-serif;
+  font: 16px/1.6 "Electronic Arts Text", Arial, sans-serif;
 }
 
-body * {
+h1, h2, h3, h4, h5, h6,
+.eyebrow,
+.card-heading .title,
+.resources summary {
   font-family: "SimsHeadline", Arial, sans-serif;
 }
 
